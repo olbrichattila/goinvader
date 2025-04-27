@@ -22,24 +22,22 @@ The invasion intensifies over time — if you lose all your lives or the invader
 
 Please note that the game is designed to work on a computer; mobile devices are not supported, and some old machines may not work due to a lack of Opengl support.
 
-> **Please give a few minutes to load!!!**  
 [https://gamechallange.attilaolbrich.co.uk/invader/index.html](https://gamechallange.attilaolbrich.co.uk/invader/index.html)
-
 
 ---
 
 ## Screenshots
 
-![Opening page](https://raw.githubusercontent.com/olbrichattila/alirobo/main/static/alirobo2.png)
-![Opening page](https://raw.githubusercontent.com/olbrichattila/alirobo/main/screenshots/sc2.png)
-![Opening page](https://raw.githubusercontent.com/olbrichattila/alirobo/main/screenshots/sc3.png)
-![Opening page](https://raw.githubusercontent.com/olbrichattila/alirobo/main/screenshots/sc4.png)
-![Opening page](https://raw.githubusercontent.com/olbrichattila/alirobo/main/screenshots/sc5.png)
-![Opening page](https://raw.githubusercontent.com/olbrichattila/alirobo/main/screenshots/sc6.png)
-![Opening page](https://raw.githubusercontent.com/olbrichattila/alirobo/main/screenshots/sc17.png)
-![Opening page](https://raw.githubusercontent.com/olbrichattila/alirobo/main/screenshots/sc18.png)
-![Opening page](https://raw.githubusercontent.com/olbrichattila/alirobo/main/screenshots/sc19.png)
-![Opening page](https://raw.githubusercontent.com/olbrichattila/alirobo/main/screenshots/sc20.png)
+
+![Opening page](https://raw.githubusercontent.com/olbrichattila/goinvader/main/screenshots/s1.png)
+
+---
+
+![Opening page](https://raw.githubusercontent.com/olbrichattila/goinvader/main/screenshots/s2.png)
+
+---
+
+![Opening page](https://raw.githubusercontent.com/olbrichattila/goinvader/main/screenshots/s3.png)
 
 ---
 
@@ -95,7 +93,7 @@ This allowed me to maintain full control over hosting while staying within budge
 ## Game Development Highlights
 Interesting Aspects of Development
 
-I decided to move forward with this game at the last minute after the deadline was extended, so the time pressure is definitely reflected in the code — which is publicly available here: [https://github.com/olbrichattila/alirobo](https://github.com/olbrichattila/alirobo).
+I decided to move forward with this game at the last minute after the deadline was extended, so the time pressure is definitely reflected in the code — which is publicly available here: [https://github.com/olbrichattila/goinvader](https://github.com/olbrichattila/goinvader).
 I had previously experimented with Golang and WebAssembly, so I already had the basics in place — sprite management, sound handling, and keyboard navigation were ready to go. For this project, I mainly needed to focus on implementing the gameplay itself.
 
 Putting everything together into a complete, playable game in a short amount of time was definitely a challenge. Although the code was assembled rather quickly under time pressure — and could definitely benefit from some cleanup and polish — I'm proud that I managed to complete and submit it by the last day of the competition. Despite the rush, seeing it all come together into a working game is something I’m genuinely proud of.
