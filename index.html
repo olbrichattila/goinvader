@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>AliRobo, Guardian of th Cloud</title>
+    <style>
+      body {
+        background-color: black;
+
+        color: white;
+      }
+
+      img {
+        width: 35px;
+      }
+
+      .wrapper {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+
+      iframe {
+        box-shadow: 5px 5px 10px #666666;
+        border: 1px solid #333333;
+      }
+
+      .navigationInfo {
+        display: flex;
+        justify-content: space-around;
+        width: 640px;
+        margin-top: 24px;
+        background-color: #222222;
+        padding: 26px;
+        box-shadow: 5px 5px 10px #666666;
+        border-radius: 6px;
+        text-align: center;
+      }
+
+      .space {
+        width: 140px;
+        height: 35px;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <h1>Ali(en) Invasion</h1>
+      <iframe src="game.html" width="640" height="480"></iframe>
+
+      <div class="navigationInfo">
+        <div>
+          <img src="a-left.png" alt="Key left" />
+          <div>Move left</div>
+        </div>
+        <div>
+          <img src="a-right.png" alt="Key left" />
+          <div>Move right</div>
+        </div>
+        <div>
+          <img class="space" src="space.png" alt="Key left" />
+          <div>Fire</div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
